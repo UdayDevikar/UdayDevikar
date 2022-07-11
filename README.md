@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi, I’m Uday Devikar!
 
-<!--
-**UdayDevikar/UdayDevikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in anything and everything related to Javascript.
 
-Here are some ideas to get you started:
+🌱 I’m currently working as a Software Engineer and I’m looking to collaborate on New and latest software development technologies, Problem-solving, and develop my analytical thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Tech Stacks:- 
+Programming Languages:- Javascript, Python, HTML5/CSS3
+Frameworks:- ReactJs, NodeJs, Gatsby, Flask
+Tools & Technolgies:- Storyblok, JIRA, Confluence, 
+Cloud Services:- Firebase, Google Cloud, DocumentAI Api, 
+
+📫 Reach me at uday.devikar@gmail.com
